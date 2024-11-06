@@ -1,0 +1,20 @@
+body {
+    margin: 0px;
+}
+
+nav {
+    display: flex;
+}
+
+li {
+    list-style-type: none;
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+}
+
+main {
+    margin: 20px;
+}
